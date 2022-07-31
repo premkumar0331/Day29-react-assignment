@@ -28,6 +28,7 @@ export default function Charts() {
                   <a
                     target="_blank"
                     href="https://www.chartjs.org/docs/latest/"
+                    rel="noopener noreferrer"
                   >
                     official Chart.js documentation
                   </a>

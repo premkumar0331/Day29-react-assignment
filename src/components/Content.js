@@ -89,14 +89,14 @@ export default function Content() {
                     aria-labelledby="dropdownMenuLink"
                   >
                     <div className="dropdown-header">Dropdown Header:</div>
-                    <a className="dropdown-item" href="#">
+                    <a className="dropdown-item" href="index.html">
                       Action
                     </a>
-                    <a className="dropdown-item" href="#">
+                    <a className="dropdown-item" href="index.html">
                       Another action
                     </a>
                     <div className="dropdown-divider" />
-                    <a className="dropdown-item" href="#">
+                    <a className="dropdown-item" href="index.html">
                       Something else here
                     </a>
                   </div>
@@ -288,13 +288,13 @@ export default function Content() {
                   <p>
                     Add some quality, svg illustrations to your project courtesy
                     of{" "}
-                    <a target="_blank" rel="nofollow" href="https://undraw.co/">
+                    <a target="_blank" rel="noopener noreferrer" href="https://undraw.co/">
                       unDraw
                     </a>
                     , a constantly updated collection of beautiful svg images
                     that you can use completely free and without attribution!
                   </p>
-                  <a target="_blank" rel="nofollow" href="https://undraw.co/">
+                  <a target="_blank" rel="noopener noreferrer" href="https://undraw.co/">
                     Browse Illustrations on unDraw →
                   </a>
                 </div>
