@@ -159,7 +159,7 @@ export default function Cards() {
                         <div className="dropdown no-arrow">
                           <a
                             className="dropdown-toggle"
-                            href="#"
+                            href="index.html"
                             role="button"
                             id="dropdownMenuLink"
                             data-toggle="dropdown"
@@ -175,14 +175,14 @@ export default function Cards() {
                             <div className="dropdown-header">
                               Dropdown Header:
                             </div>
-                            <a className="dropdown-item" href="#">
+                            <a className="dropdown-item" href="index.html">
                               Action
                             </a>
-                            <a className="dropdown-item" href="#">
+                            <a className="dropdown-item" href="index.html">
                               Another action
                             </a>
                             <div className="dropdown-divider" />
-                            <a className="dropdown-item" href="#">
+                            <a className="dropdown-item" href="index.html">
                               Something else here
                             </a>
                           </div>

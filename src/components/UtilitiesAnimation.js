@@ -49,14 +49,14 @@ export default function UtilitiesAnimation() {
                           Navbar Dropdown Example:
                         </div>
                         <nav className="navbar navbar-expand navbar-light bg-light mb-4">
-                          <a className="navbar-brand" href="#">
+                          <a className="navbar-brand" href="index.html">
                             Navbar
                           </a>
                           <ul className="navbar-nav ml-auto">
                             <li className="nav-item dropdown">
                               <a
                                 className="nav-link dropdown-toggle"
-                                href="#"
+                                href="index.html"
                                 id="navbarDropdown"
                                 role="button"
                                 data-toggle="dropdown"
@@ -69,14 +69,14 @@ export default function UtilitiesAnimation() {
                                 className="dropdown-menu dropdown-menu-right animated--grow-in"
                                 aria-labelledby="navbarDropdown"
                               >
-                                <a className="dropdown-item" href="#">
+                                <a className="dropdown-item" href="index.html">
                                   Action
                                 </a>
-                                <a className="dropdown-item" href="#">
+                                <a className="dropdown-item" href="index.html">
                                   Another action
                                 </a>
                                 <div className="dropdown-divider" />
-                                <a className="dropdown-item" href="#">
+                                <a className="dropdown-item" href="index.html">
                                   Something else here
                                 </a>
                               </div>
@@ -109,14 +109,14 @@ export default function UtilitiesAnimation() {
                           Navbar Dropdown Example:
                         </div>
                         <nav className="navbar navbar-expand navbar-light bg-light mb-4">
-                          <a className="navbar-brand" href="#">
+                          <a className="navbar-brand" href="index.html">
                             Navbar
                           </a>
                           <ul className="navbar-nav ml-auto">
                             <li className="nav-item dropdown">
                               <a
                                 className="nav-link dropdown-toggle"
-                                href="#"
+                                href="index.html"
                                 id="navbarDropdown"
                                 role="button"
                                 data-toggle="dropdown"
@@ -129,14 +129,14 @@ export default function UtilitiesAnimation() {
                                 className="dropdown-menu dropdown-menu-right animated--fade-in"
                                 aria-labelledby="navbarDropdown"
                               >
-                                <a className="dropdown-item" href="#">
+                                <a className="dropdown-item" href="index.html">
                                   Action
                                 </a>
-                                <a className="dropdown-item" href="#">
+                                <a className="dropdown-item" href="index.html">
                                   Another action
                                 </a>
                                 <div className="dropdown-divider" />
-                                <a className="dropdown-item" href="#">
+                                <a className="dropdown-item" href="index.html">
                                   Something else here
                                 </a>
                               </div>
@@ -161,13 +161,13 @@ export default function UtilitiesAnimation() {
                             className="dropdown-menu animated--fade-in"
                             aria-labelledby="dropdownMenuButton"
                           >
-                            <a className="dropdown-item" href="#">
+                            <a className="dropdown-item" href="index.html">
                               Action
                             </a>
-                            <a className="dropdown-item" href="#">
+                            <a className="dropdown-item" href="index.html">
                               Another action
                             </a>
-                            <a className="dropdown-item" href="#">
+                            <a className="dropdown-item" href="index.html">
                               Something else here
                             </a>
                           </div>

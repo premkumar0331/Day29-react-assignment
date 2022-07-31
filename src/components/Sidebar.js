@@ -37,7 +37,7 @@ export default function Sidebar() {
         <li className="nav-item">
           <a
             className="nav-link collapsed"
-            href="#"
+            href="index.html"
             data-toggle="collapse"
             data-target="#collapseTwo"
             aria-expanded="true"
@@ -54,10 +54,10 @@ export default function Sidebar() {
           >
             <div className="bg-white py-2 collapse-inner rounded">
               <h6 className="collapse-header">Custom Components:</h6>
-              <a className="collapse-item" >
+              <a className="collapse-item" href="index.html">
               <Link to="/buttons">Buttons</Link>
               </a>
-              <a className="collapse-item" >
+              <a className="collapse-item" href="index.html">
               <Link to="/cards"> Cards</Link>
               </a>
             </div>
@@ -67,7 +67,7 @@ export default function Sidebar() {
         <li className="nav-item">
           <a
             className="nav-link collapsed"
-            href="#"
+            href="index.html"
             data-toggle="collapse"
             data-target="#collapseUtilities"
             aria-expanded="true"
@@ -107,7 +107,7 @@ export default function Sidebar() {
         <li className="nav-item">
           <a
             className="nav-link collapsed"
-            href="#"
+            href="index.html"
             data-toggle="collapse"
             data-target="#collapsePages"
             aria-expanded="true"

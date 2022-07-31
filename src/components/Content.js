@@ -9,7 +9,7 @@ export default function Content() {
         <div className="d-sm-flex align-items-center justify-content-between mb-4">
           <h1 className="h3 mb-0 text-gray-800">Dashboard</h1>
           <a
-            href="#"
+            href="index.html"
             className="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"
           >
             <i className="fas fa-download fa-sm text-white-50" /> Generate
@@ -29,7 +29,7 @@ export default function Content() {
                 <div className="dropdown no-arrow">
                   <a
                     className="dropdown-toggle"
-                    href="#"
+                    href="index.html"
                     role="button"
                     id="dropdownMenuLink"
                     data-toggle="dropdown"
@@ -43,14 +43,14 @@ export default function Content() {
                     aria-labelledby="dropdownMenuLink"
                   >
                     <div className="dropdown-header">Dropdown Header:</div>
-                    <a className="dropdown-item" href="#">
+                    <a className="dropdown-item" href="index.html">
                       Action
                     </a>
-                    <a className="dropdown-item" href="#">
+                    <a className="dropdown-item" href="index.html">
                       Another action
                     </a>
                     <div className="dropdown-divider" />
-                    <a className="dropdown-item" href="#">
+                    <a className="dropdown-item" href="index.html">
                       Something else here
                     </a>
                   </div>
@@ -75,7 +75,7 @@ export default function Content() {
                 <div className="dropdown no-arrow">
                   <a
                     className="dropdown-toggle"
-                    href="#"
+                    href="index.html"
                     role="button"
                     id="dropdownMenuLink"
                     data-toggle="dropdown"

@@ -40,19 +40,19 @@ export default function Buttons() {
                         <div className="mb-2">
                           <code>.btn-circle</code>
                         </div>
-                        <a href="#" className="btn btn-primary btn-circle">
+                        <a href="index.html" className="btn btn-primary btn-circle">
                           <i className="fab fa-facebook-f" />
                         </a>
-                        <a href="#" className="btn btn-success btn-circle">
+                        <a href="index.html" className="btn btn-success btn-circle">
                           <i className="fas fa-check" />
                         </a>
-                        <a href="#" className="btn btn-info btn-circle">
+                        <a href="index.html" className="btn btn-info btn-circle">
                           <i className="fas fa-info-circle" />
                         </a>
-                        <a href="#" className="btn btn-warning btn-circle">
+                        <a href="index.html" className="btn btn-warning btn-circle">
                           <i className="fas fa-exclamation-triangle" />
                         </a>
-                        <a href="#" className="btn btn-danger btn-circle">
+                        <a href="index.html" className="btn btn-danger btn-circle">
                           <i className="fas fa-trash" />
                         </a>
                         {/* Circle Buttons (Small) */}
@@ -60,28 +60,28 @@ export default function Buttons() {
                           <code>.btn-circle .btn-sm</code>
                         </div>
                         <a
-                          href="#"
+                          href="index.html"
                           className="btn btn-primary btn-circle btn-sm"
                         >
                           <i className="fab fa-facebook-f" />
                         </a>
                         <a
-                          href="#"
+                          href="index.html"
                           className="btn btn-success btn-circle btn-sm"
                         >
                           <i className="fas fa-check" />
                         </a>
-                        <a href="#" className="btn btn-info btn-circle btn-sm">
+                        <a href="index.html" className="btn btn-info btn-circle btn-sm">
                           <i className="fas fa-info-circle" />
                         </a>
                         <a
-                          href="#"
+                          href="index.html"
                           className="btn btn-warning btn-circle btn-sm"
                         >
                           <i className="fas fa-exclamation-triangle" />
                         </a>
                         <a
-                          href="#"
+                          href="index.html"
                           className="btn btn-danger btn-circle btn-sm"
                         >
                           <i className="fas fa-trash" />
@@ -91,28 +91,28 @@ export default function Buttons() {
                           <code>.btn-circle .btn-lg</code>
                         </div>
                         <a
-                          href="#"
+                          href="index.html"
                           className="btn btn-primary btn-circle btn-lg"
                         >
                           <i className="fab fa-facebook-f" />
                         </a>
                         <a
-                          href="#"
+                          href="index.html"
                           className="btn btn-success btn-circle btn-lg"
                         >
                           <i className="fas fa-check" />
                         </a>
-                        <a href="#" className="btn btn-info btn-circle btn-lg">
+                        <a href="index.html" className="btn btn-info btn-circle btn-lg">
                           <i className="fas fa-info-circle" />
                         </a>
                         <a
-                          href="#"
+                          href="index.html"
                           className="btn btn-warning btn-circle btn-lg"
                         >
                           <i className="fas fa-exclamation-triangle" />
                         </a>
                         <a
-                          href="#"
+                          href="index.html"
                           className="btn btn-danger btn-circle btn-lg"
                         >
                           <i className="fas fa-trash" />
@@ -140,11 +140,11 @@ export default function Buttons() {
                           as demonstrated in the <code>_buttons.scss</code>
                           file.
                         </p>
-                        <a href="#" className="btn btn-google btn-block">
+                        <a href="index.html" className="btn btn-google btn-block">
                           <i className="fab fa-google fa-fw" />
                           .btn-google
                         </a>
-                        <a href="#" className="btn btn-facebook btn-block">
+                        <a href="index.html" className="btn btn-facebook btn-block">
                           <i className="fab fa-facebook-f fa-fw" />{" "}
                           .btn-facebook
                         </a>
@@ -166,35 +166,35 @@ export default function Buttons() {
                           <code>.text-white-50</code> helper class on the icons
                           for additional styling, but it is not required.
                         </p>
-                        <a href="#" className="btn btn-primary btn-icon-split">
+                        <a href="index.html" className="btn btn-primary btn-icon-split">
                           <span className="icon text-white-50">
                             <i className="fas fa-flag" />
                           </span>
                           <span className="text">Split Button Primary</span>
                         </a>
                         <div className="my-2" />
-                        <a href="#" className="btn btn-success btn-icon-split">
+                        <a href="index.html" className="btn btn-success btn-icon-split">
                           <span className="icon text-white-50">
                             <i className="fas fa-check" />
                           </span>
                           <span className="text">Split Button Success</span>
                         </a>
                         <div className="my-2" />
-                        <a href="#" className="btn btn-info btn-icon-split">
+                        <a href="index.html" className="btn btn-info btn-icon-split">
                           <span className="icon text-white-50">
                             <i className="fas fa-info-circle" />
                           </span>
                           <span className="text">Split Button Info</span>
                         </a>
                         <div className="my-2" />
-                        <a href="#" className="btn btn-warning btn-icon-split">
+                        <a href="index.html" className="btn btn-warning btn-icon-split">
                           <span className="icon text-white-50">
                             <i className="fas fa-exclamation-triangle" />
                           </span>
                           <span className="text">Split Button Warning</span>
                         </a>
                         <div className="my-2" />
-                        <a href="#" className="btn btn-danger btn-icon-split">
+                        <a href="index.html" className="btn btn-danger btn-icon-split">
                           <span className="icon text-white-50">
                             <i className="fas fa-trash" />
                           </span>
@@ -202,7 +202,7 @@ export default function Buttons() {
                         </a>
                         <div className="my-2" />
                         <a
-                          href="#"
+                          href="index.html"
                           className="btn btn-secondary btn-icon-split"
                         >
                           <span className="icon text-white-50">
@@ -211,7 +211,7 @@ export default function Buttons() {
                           <span className="text">Split Button Secondary</span>
                         </a>
                         <div className="my-2" />
-                        <a href="#" className="btn btn-light btn-icon-split">
+                        <a href="index.html" className="btn btn-light btn-icon-split">
                           <span className="icon text-gray-600">
                             <i className="fas fa-arrow-right" />
                           </span>
@@ -220,7 +220,7 @@ export default function Buttons() {
                         <div className="mb-4" />
                         <p>Also works with small and large button classes!</p>
                         <a
-                          href="#"
+                          href="index.html"
                           className="btn btn-primary btn-icon-split btn-sm"
                         >
                           <span className="icon text-white-50">
@@ -230,7 +230,7 @@ export default function Buttons() {
                         </a>
                         <div className="my-2" />
                         <a
-                          href="#"
+                          href="index.html"
                           className="btn btn-primary btn-icon-split btn-lg"
                         >
                           <span className="icon text-white-50">
